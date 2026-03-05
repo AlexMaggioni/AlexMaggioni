@@ -15,4 +15,4 @@ I build ML systems that solve real business problems and actually make it to pro
 
 M.Sc. in CS (Machine Learning) from **UdeM & MILA**. Currently building agentic systems at **[Baseline](https://baseline.quebec)**.
 
-👉 **For more, visit [alexmaggioni.com](https://www.alexmaggioni.com)**
+👉 **For more, visit 🌐 [alexmaggioni.com](https://www.alexmaggioni.com)**
